@@ -1,0 +1,26 @@
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.csprojAssemblyReference.cache
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.AssemblyInfo.cs
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.exe
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.deps.json
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.runtimeconfig.json
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.runtimeconfig.dev.json
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.dll
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.pdb
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.dll
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.pdb
+C:\Users\M\source\repos\Week2Challenges\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.genruntimeconfig.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.exe
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.deps.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.runtimeconfig.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.runtimeconfig.dev.json
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.dll
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\bin\Debug\netcoreapp3.1\Week2Challenges.pdb
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.csprojAssemblyReference.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.AssemblyInfoInputs.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.AssemblyInfo.cs
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.csproj.CoreCompileInputs.cache
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.dll
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.pdb
+X:\Google Drive\What is this\Desktop\1150\Eleven Fifty Projects\Challenge Projects\Week 2 Challenge\Week2Challenges\obj\Debug\netcoreapp3.1\Week2Challenges.genruntimeconfig.cache
