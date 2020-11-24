@@ -33,7 +33,7 @@ namespace Week2Challenges
             {
                 Console.WriteLine("Good Morning");
             
-            } else if (hour >= 12 || hour < 6 )
+            } else if (hour >= 12 || hour < 18 )
             
             {
                 Console.WriteLine("Good Afternoon");
